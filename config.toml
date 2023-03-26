@@ -1,4 +1,4 @@
-baseURL = 'https://JLS7213.github.io/'
+baseURL = 'http://JLS7213.github.io/'
 languageCode = 'zh-cn'
 title = 'Watchman'
 theme = "coyote" 
