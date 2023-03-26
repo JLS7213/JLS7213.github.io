@@ -4,4 +4,3 @@ title = 'Watchman'
 theme = "coyote" 
 [outputs]
   home = ['HTML', 'JSON']
-  
